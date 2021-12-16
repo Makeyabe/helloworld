@@ -1,0 +1,17 @@
+C:\Users\MAKE\Documents\GitHub\helloworld\TempCalculator\TempCalculator\bin\Debug\net6.0-windows\TempCalculator.exe
+C:\Users\MAKE\Documents\GitHub\helloworld\TempCalculator\TempCalculator\bin\Debug\net6.0-windows\TempCalculator.deps.json
+C:\Users\MAKE\Documents\GitHub\helloworld\TempCalculator\TempCalculator\bin\Debug\net6.0-windows\TempCalculator.runtimeconfig.json
+C:\Users\MAKE\Documents\GitHub\helloworld\TempCalculator\TempCalculator\bin\Debug\net6.0-windows\TempCalculator.dll
+C:\Users\MAKE\Documents\GitHub\helloworld\TempCalculator\TempCalculator\bin\Debug\net6.0-windows\ref\TempCalculator.dll
+C:\Users\MAKE\Documents\GitHub\helloworld\TempCalculator\TempCalculator\bin\Debug\net6.0-windows\TempCalculator.pdb
+C:\Users\MAKE\Documents\GitHub\helloworld\TempCalculator\TempCalculator\obj\Debug\net6.0-windows\TempCalculator.csproj.AssemblyReference.cache
+C:\Users\MAKE\Documents\GitHub\helloworld\TempCalculator\TempCalculator\obj\Debug\net6.0-windows\TempCalculator.Form1.resources
+C:\Users\MAKE\Documents\GitHub\helloworld\TempCalculator\TempCalculator\obj\Debug\net6.0-windows\TempCalculator.csproj.GenerateResource.cache
+C:\Users\MAKE\Documents\GitHub\helloworld\TempCalculator\TempCalculator\obj\Debug\net6.0-windows\TempCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAKE\Documents\GitHub\helloworld\TempCalculator\TempCalculator\obj\Debug\net6.0-windows\TempCalculator.AssemblyInfoInputs.cache
+C:\Users\MAKE\Documents\GitHub\helloworld\TempCalculator\TempCalculator\obj\Debug\net6.0-windows\TempCalculator.AssemblyInfo.cs
+C:\Users\MAKE\Documents\GitHub\helloworld\TempCalculator\TempCalculator\obj\Debug\net6.0-windows\TempCalculator.csproj.CoreCompileInputs.cache
+C:\Users\MAKE\Documents\GitHub\helloworld\TempCalculator\TempCalculator\obj\Debug\net6.0-windows\TempCalculator.dll
+C:\Users\MAKE\Documents\GitHub\helloworld\TempCalculator\TempCalculator\obj\Debug\net6.0-windows\ref\TempCalculator.dll
+C:\Users\MAKE\Documents\GitHub\helloworld\TempCalculator\TempCalculator\obj\Debug\net6.0-windows\TempCalculator.pdb
+C:\Users\MAKE\Documents\GitHub\helloworld\TempCalculator\TempCalculator\obj\Debug\net6.0-windows\TempCalculator.genruntimeconfig.cache
