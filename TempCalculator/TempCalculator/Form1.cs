@@ -34,5 +34,11 @@ namespace TempCalculator
             double c = (f-32) * 5/9 ;
             Con1.Text = c.ToString();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Con1.Text = "";
+            Con2.Text = "";
+        }
     }
 }
